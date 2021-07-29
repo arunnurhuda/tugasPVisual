@@ -34,3 +34,7 @@ Tabel name : pelanggan
 3. Buat file di source package (klik kanan) pilih  tipe Jframe Form beri nama …
 4. Pada Libraries (klik kanal) pilih add library > create > beri nama > add jar/folder > pilih mysql-connector-java-8.0.25.jar yang ada di folder mysql-connector-java-8.0.25 > OK > kemudian pilih library yg tadi dibuat dan OK
 
+![image](https://user-images.githubusercontent.com/39723202/127571587-c4470b83-0486-4354-b368-d13c366fb957.png)
+![image](https://user-images.githubusercontent.com/39723202/127571688-3055825e-6765-4db3-a4e3-fe626a6ba24d.png)
+![image](https://user-images.githubusercontent.com/39723202/127571774-0cce46aa-1711-4e68-9745-04e609fee7eb.png)
+
