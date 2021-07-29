@@ -44,9 +44,13 @@ Tabel name : pelanggan
 
 2. Pull Repository from GitHub and Merge:
     a. Right click on project-> Git-> Remote-> Pull->
+    
     b. Enter Git Repository Link in the Repository URL field,
-    c. Enter Username and Password and click Next.
+    
+    c. Blank/Kosongkan Username & Password
+    
     d. Select Remote Branches "master -> origin/master [ ]" and click Finish,
+    
     e. A dialogue will appear, click on Merge.
 
 
