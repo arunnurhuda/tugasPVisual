@@ -34,6 +34,7 @@ Tabel name : pelanggan
 2. Buat new project di Netbeans (java with ant) beri nama …
 3. Buat file di source package (klik kanan) pilih  tipe Jframe Form beri nama …
 4. Pada Libraries (klik kanal) pilih add library > create > beri nama > add jar/folder > pilih mysql-connector-java-8.0.25.jar yang ada di folder mysql-connector-java-8.0.25 > OK > kemudian pilih library yg tadi dibuat dan OK
+![image](https://user-images.githubusercontent.com/39723202/127572915-eea04994-b963-4ff9-a205-b40ea3417e8c.png)
 
 
 
