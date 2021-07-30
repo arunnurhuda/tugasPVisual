@@ -45,9 +45,11 @@ Tabel name : pelanggan
 1. Right click on project-> Versioning-> Initialize Git Repository-> OK.
 
 2. Pull Repository from GitHub and Merge:
+
+
     a. Right click on project-> Git-> Remote-> Pull->
     
-    b. Enter Git Repository Link in the Repository URL field,
+    b. Enter Git Repository Link https://github.com/arunnurhuda/tugasPVisual.git in the Repository URL field, 
     
     c. Blank/Kosongkan Username & Password
     
