@@ -37,6 +37,12 @@ Tabel name : pelanggan
 4. Pada Libraries (klik kanal) pilih add library > create > beri nama > add jar/folder > pilih mysql-connector-java-8.0.25.jar yang ada di folder mysql-connector-java-8.0.25 > OK > kemudian pilih library yg tadi dibuat dan OK
 ![image](https://user-images.githubusercontent.com/39723202/127572915-eea04994-b963-4ff9-a205-b40ea3417e8c.png)
 
+create library lagi untuk AbsoluteLayout karna di sini sy menggunakan absolute layout
+jar nya ada di folder C:\Program Files\NetBeans-12.4\netbeans\java\modules\ext\AbsoluteLayout.jar
+![image](https://user-images.githubusercontent.com/39723202/127658247-333255a8-35bb-4487-b847-91d9404a7ed2.png)
+
+
+
 
 
 
