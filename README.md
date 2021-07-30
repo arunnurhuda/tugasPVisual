@@ -1,6 +1,7 @@
 # tugasPVisual
 
-1. Buat Database MySQL di XAMPP localhost/phpMyAdmin dengan detail:
+
+1. Buat Database MySQL di XAMPP localhost/phpMyAdmin dengan detail dibawah, atau langung import file arunanet.sql ke phpmyadmin
 ===================================================
 
 Database name : arunanet
