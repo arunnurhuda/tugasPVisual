@@ -50,6 +50,8 @@ Tabel name : pelanggan
     a. Right click on project-> Git-> Remote-> Pull->
     
     b. Enter Git Repository Link https://github.com/arunnurhuda/tugasPVisual.git in the Repository URL field, 
+    ![image](https://user-images.githubusercontent.com/39723202/127639529-83ec6707-fcf3-4fae-b32d-4e2bb57cf85d.png)
+
     
     c. Blank/Kosongkan Username & Password
     
